@@ -45,7 +45,7 @@ regex==2024.11.6
 requests==2.32.3
 rpds-py==0.24.0
 scikit-learn==1.6.1
-scipy==1.13.1
+scipy==1.9.3
 six==1.17.0
 smmap==5.0.2
 soupsieve==2.6
